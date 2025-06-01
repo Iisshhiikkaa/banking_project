@@ -1,0 +1,151 @@
+{
+    "countries": [
+      {
+        "country_id": 2,
+        "country_name": "India",
+        "currency": "INR",
+        "states": [
+          {
+            "state_id": 201,
+            "state_name": "Maharashtra",
+            "cities": [
+              {
+                "city_id": 2001,
+                "city_name": "Mumbai",
+                "branches": [
+                  {
+                    "branch_id": "IN-MH-BOM-001",
+                    "branch_name": "Nariman Point Corporate Banking",
+                    "address": "Express Towers, Nariman Point"
+                  },
+                  {
+                    "branch_id": "IN-MH-BOM-002",
+                    "branch_name": "Andheri West Branch",
+                    "address": "Veera Desai Road, Andheri West"
+                  }
+                ]
+              },
+              {
+                "city_id": 2005,
+                "city_name": "Pune",
+                "branches": [
+                  {
+                    "branch_id": "IN-MH-PUN-001",
+                    "branch_name": "Baner Branch",
+                    "address": "Pan Card Club Road, Baner"
+                  },
+                  {
+                    "branch_id": "IN-MH-PUN-002",
+                    "branch_name": "Koregaon Park Branch",
+                    "address": "North Main Road, Koregaon Park"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "state_id": 202,
+            "state_name": "Karnataka",
+            "cities": [
+              {
+                "city_id": 2002,
+                "city_name": "Bengaluru",
+                "branches": [
+                  {
+                    "branch_id": "IN-KA-BLR-001",
+                    "branch_name": "MG Road Digital Hub",
+                    "address": "1/1 Kasturba Road"
+                  },
+                  {
+                    "branch_id": "IN-KA-BLR-002",
+                    "branch_name": "Electronic City Branch",
+                    "address": "Electronic City Phase 1"
+                  }
+                ]
+              },
+              {
+                "city_id": 2006,
+                "city_name": "Mysuru",
+                "branches": [
+                  {
+                    "branch_id": "IN-KA-MYS-001",
+                    "branch_name": "Chamrajpura Branch",
+                    "address": "Near Clock Tower, Chamrajpura"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "state_id": 203,
+            "state_name": "Tamil Nadu",
+            "cities": [
+              {
+                "city_id": 2003,
+                "city_name": "Chennai",
+                "branches": [
+                  {
+                    "branch_id": "IN-TN-CHE-001",
+                    "branch_name": "T Nagar Branch",
+                    "address": "North Usman Road, T Nagar"
+                  },
+                  {
+                    "branch_id": "IN-TN-CHE-002",
+                    "branch_name": "Velachery Branch",
+                    "address": "100 Feet Road, Velachery"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "state_id": 204,
+            "state_name": "Delhi",
+            "cities": [
+              {
+                "city_id": 2004,
+                "city_name": "New Delhi",
+                "branches": [
+                  {
+                    "branch_id": "IN-DL-ND-001",
+                    "branch_name": "Connaught Place Branch",
+                    "address": "Rajiv Chowk, Connaught Place"
+                  },
+                  {
+                    "branch_id": "IN-DL-ND-002",
+                    "branch_name": "Saket Branch",
+                    "address": "Select Citywalk Mall, Saket"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "state_id": 205,
+            "state_name": "West Bengal",
+            "cities": [
+              {
+                "city_id": 2007,
+                "city_name": "Kolkata",
+                "branches": [
+                  {
+                    "branch_id": "IN-WB-KOL-001",
+                    "branch_name": "Park Street Branch",
+                    "address": "57A Park Street, Kolkata"
+                  },
+                  {
+                    "branch_id": "IN-WB-KOL-002",
+                    "branch_name": "Salt Lake Sector V Branch",
+                    "address": "Sector V, Bidhannagar"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    
+      
+    ]
+  }
+  

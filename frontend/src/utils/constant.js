@@ -1,0 +1,1 @@
+export const HOSTURL="http://localhost:8000";
